@@ -7,7 +7,7 @@
 }
 .menu-nav {
   height: 75px;
-  background-color: #333;
+  background-color: #ffb6c1;
   display: flex;
   align-items: center;
 }
@@ -48,4 +48,9 @@
 .text-container p {
   font-size: 18px;  
   color: black;
+}
+/* DESAFIOS */
+.desafios-content{
+  width: 500px;
+  text-align: justify;
 }
